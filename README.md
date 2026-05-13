@@ -1,5 +1,5 @@
 <div align="center">
-    <img align="center" src="https://readme-typing-svg.demolab.com/?center=true&vCenter=true&color=C70C0C&lines=Hello+friend,+my+name+is+Koalko;No+one+is+more+honest+than+a+stack+trace+at+3+AM;I+use+Arch+btw" />
+    <img align="center" src="https://readme-typing-svg.demolab.com/?center=true&vCenter=true&color=C70C0C&lines=Hello+friend,+my+name+is+Koalko;Building+backend+systems;Powered+by+caffeine;Stack+traces+included;I+use+Arch+btw" />
 </div>
 
 <br>
